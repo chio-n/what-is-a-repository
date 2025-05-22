@@ -6,7 +6,7 @@ My goal is to use a dataset to practice analysis and reporting in Excel.
 - Vehicle Sales Data (https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data)
 
 ## References 
-- [Full Project in Excel | Excel Tutorials for Beginners]([url](https://www.youtube.com/watch?v=opJgMj1IUrc&ab_channel=AlexTheAnalyst))
+- [Full Project in Excel | Excel Tutorials for Beginners](https://www.youtube.com/watch?v=opJgMj1IUrc&ab_channel=AlexTheAnalyst)
 
 ## Step 1: Cleaning and Transformation
 - I created the 'Working Sheet,' 'Pivot Table,' and 'Dashboard' sheets while keeping the raw data in 'car_prices' unchanged.
