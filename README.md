@@ -19,4 +19,5 @@ I added the 'Condition Brackets' column and used the IF function to assign condi
 - Between 39 to 30 = "Great" 
 - Between 29 to 20 = "Good" 
 - Between 19 to 10 = "Fair" 
-- Under 10 = "Poor" 
+- Between 9 to 1 = "Poor" 
+- 0 values were assigned "N/A"
