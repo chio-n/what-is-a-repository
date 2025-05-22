@@ -27,3 +27,6 @@ I added the 'Condition Brackets' column and used the IF function to assign condi
 - Between 19 to 10 = "Fair" 
 - Between 9 to 1 = "Poor" 
 - 0 values were assigned "N/A"
+
+## PivotTable
+- 
