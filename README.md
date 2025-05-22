@@ -7,4 +7,4 @@ My goal is to use a dataset to practice analysis and reporting in Excel.
 
 ## Step 1: Cleaning and Transformation
 - I created the 'Working Sheet,' 'Pivot Table,' and 'Dashboard' sheets while keeping the raw data in 'car_prices' unchanged.
-With the 'Working Sheet' I removed the duplicates.
+- With the 'Working Sheet' I removed the duplicates.
