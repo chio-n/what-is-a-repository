@@ -14,8 +14,11 @@ My goal is to use a dataset to practice analysis and reporting in Excel.
 
 ![image](https://github.com/user-attachments/assets/3de1da66-8889-49db-bdad-a7e79a8402b5)
 
+- Then, I converted the raw data into a table. 
+
 # Added Vehicle Condition Grades
-![image](https://github.com/user-attachments/assets/3f39f25a-996d-4215-8f00-8aba3a55a704)
+![image](https://github.com/user-attachments/assets/d1f1a4d0-c652-46f4-8845-49af8234bf13)
+
 
 I added the 'Condition Brackets' column and used the IF function to assign condition grades to each sold vehicle.
 - Between 49 to 40 = "Excellent" 
