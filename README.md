@@ -2,6 +2,14 @@
 I want to use this repository to upload my projects.
 My goal is to use a dataset to practice analysis and reporting in Excel.  
 
+# Why did I choose this dataset?
+- To identify the makes and models with the highest units sold.
+
+# Implications and Use Cases:
+- Helps buyers and sellers understand current market trends.
+- For buyers, a popular vehicle suggests a more liquid market, making it easier to resell.
+
+
 ## Dataset Used 
 - [Vehicle Sales Data](https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data)
 
